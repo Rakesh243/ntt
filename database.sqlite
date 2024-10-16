@@ -1,0 +1,8 @@
+ CREATE TABLE IF NOT EXISTS users (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      username TEXT NOT NULL,
+      score INTEGER NOT NULL,
+      time_taken INTEGER NOT NULL, -- in seconds
+      errors INTEGER NOT NULL,
+      created_at TEXT NOT NULL
+
