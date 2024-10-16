@@ -12,6 +12,8 @@ const challenges = [
   "Nim is a statically typed compiled systems programming language.",
   "Jester is a simple and powerful web framework for Nim."
 ]
+```
+
 - expand this application by adding more features such as:
 
 - Adding a typing challenge page with predefined texts.
